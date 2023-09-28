@@ -1,0 +1,3 @@
+foreground-split/cascadepsp http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Fforeground-split%2Fcascadepsp?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697088395&Signature=4ksWeS1QeAP0g9CtQcRBYaqXpG4%3D
+foreground-split/gca-dist-all-data.pth http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Fforeground-split%2Fgca-dist-all-data.pth?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697088409&Signature=9GeR3Ocra1gVwa41FCKRDPLuoqg%3D
+foreground-split/u2net_old.pth http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Fforeground-split%2Fu2net_old.pth?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697088433&Signature=TH%2BOvYigh7x2r7N0NF741BGrbIA%3D
